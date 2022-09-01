@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q10\q10\bin\Debug\q10.exe.config
+C:\Users\jaabraham\source\repos\q10\q10\bin\Debug\q10.exe
+C:\Users\jaabraham\source\repos\q10\q10\bin\Debug\q10.pdb
+C:\Users\jaabraham\source\repos\q10\q10\obj\Debug\q10.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q10\q10\obj\Debug\q10.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q10\q10\obj\Debug\q10.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q10\q10\obj\Debug\q10.exe
+C:\Users\jaabraham\source\repos\q10\q10\obj\Debug\q10.pdb
